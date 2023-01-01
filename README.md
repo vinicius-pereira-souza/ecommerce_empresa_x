@@ -1,4 +1,7 @@
-# ecommerce_empresa_x
-Este é um ecommerce para a empresa X feita em PHP e MySQL ( repositório para o curso de Git e GiHub ).
+# E-commerce empresa X
 
-# Teste
+Vamos criar um e-commerce, para a empresa X e blablabla
+
+## Funcionalidades:
+
+Checkout, Tela de produto, catálogo, Home com banner
