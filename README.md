@@ -30,3 +30,7 @@ Vamos criar um **e-commerce**, para a _empresa X_ e blablabla
 #### Imagen local
 
 ![Logo do Python](img/python.png)
+
+#### Imagem externa
+
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
