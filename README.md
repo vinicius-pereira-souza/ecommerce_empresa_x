@@ -38,3 +38,5 @@ Vamos criar um **e-commerce**, para a _empresa X_ e blablabla
 ## Links interessantes
 
 [Google](https://www.google.com.br/)
+
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
