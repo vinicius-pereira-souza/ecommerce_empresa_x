@@ -56,6 +56,6 @@ function soma(a, b) {
 ## Lista de tarefas a fazer:
 
 - [x] Áreas de membros
-- [] Integração com outros paramentos
-- [] Sistema de bônus
+- [ ] Integração com outros paramentos
+- [ ] Sistema de bônus
 - [x] CSS do radapé
