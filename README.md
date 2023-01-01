@@ -26,3 +26,7 @@ Vamos criar um **e-commerce**, para a _empresa X_ e blablabla
    3. CSS diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+#### Imagen local
+
+![Logo do Python](img/python.png)
