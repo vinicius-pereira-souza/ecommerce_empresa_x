@@ -40,3 +40,5 @@ Vamos criar um **e-commerce**, para a _empresa X_ e blablabla
 [Google](https://www.google.com.br/)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+Contribuidor principal: https://github.com/vinicius-pereira-souza
