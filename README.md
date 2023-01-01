@@ -42,3 +42,5 @@ Vamos criar um **e-commerce**, para a _empresa X_ e blablabla
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://github.com/vinicius-pereira-souza
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/vinicius-pereira-souza)
