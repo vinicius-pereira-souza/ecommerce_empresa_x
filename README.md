@@ -44,3 +44,11 @@ Vamos criar um **e-commerce**, para a _empresa X_ e blablabla
 Contribuidor principal: https://github.com/vinicius-pereira-souza
 
 [![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/vinicius-pereira-souza)
+
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+  return a + b
+}
+```
