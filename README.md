@@ -49,6 +49,13 @@ Contribuidor principal: https://github.com/vinicius-pereira-souza
 
 ```javascript
 function soma(a, b) {
-  return a + b
+  return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [x] Áreas de membros
+- [] Integração com outros paramentos
+- [] Sistema de bônus
+- [x] CSS do radapé
